@@ -1,0 +1,15 @@
+.image {
+    width: 40vw;
+}
+
+img {
+    width: 40vw;
+}
+
+img + img {
+    position:absolute;
+    left: 4rem;
+    top: 18rem;
+    width: 80px;
+}
+
